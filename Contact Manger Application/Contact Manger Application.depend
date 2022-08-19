@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1660672982 source:c:\users\ammar gamal\desktop\contact manger application\main.cpp
+	<iostream>
+	<Contact.h>
+	<ctime>
+
+1660607036 source:c:\users\ammar gamal\desktop\contact manger application\src\address.cpp
+	"Address.h"
+
+1660605803 c:\users\ammar gamal\desktop\contact manger application\include\address.h
+	<iostream>
+	<string>
+	<fstream>
+
+1660607581 source:c:\users\ammar gamal\desktop\contact manger application\src\email.cpp
+	"Email.h"
+
+1660303449 c:\users\ammar gamal\desktop\contact manger application\include\email.h
+	<iostream>
+	<string>
+	<fstream>
+
+1660607581 source:c:\users\ammar gamal\desktop\contact manger application\src\phone.cpp
+	"Phone.h"
+
+1660303237 c:\users\ammar gamal\desktop\contact manger application\include\phone.h
+	<iostream>
+	<string>
+	<fstream>
+
+1660660297 source:c:\users\ammar gamal\desktop\contact manger application\src\user.cpp
+	"User.h"
+
+1660663363 c:\users\ammar gamal\desktop\contact manger application\include\user.h
+	<Address.h>
+	<Phone.h>
+	<Email.h>
+	<vector>
+	<windows.h>
+	<chrono>
+	<ctime>
+	<iomanip>
+
+1660672982 source:c:\users\ammar gamal\desktop\contact manger application\src\contact.cpp
+	"Contact.h"
+
+1660670473 c:\users\ammar gamal\desktop\contact manger application\include\contact.h
+	<User.h>
+
